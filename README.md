@@ -1,10 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Video-Share, a video chatting and streaming application, a pomodoro app, code cheatsheet website, with another one in the works!
-- 🌱 I’m currently learning 
-     - AWS' CDK and trying to implement the many tools in my projects going foward.
-     - Next.js
-     - Tailwind
-     - Typescript
 
 - 📫 How to reach me: 
     - Portfolio: [binhngo.me](http://www.binhngo.me)  
