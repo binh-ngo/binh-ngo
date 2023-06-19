@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Currently working on Yan Cui's AppSync Masterclass anda couple of private projects!
-
 - 📫 How to reach me: 
     - Portfolio: [binhngo.me](http://www.binhngo.me)  
     - [LinkedIn](https://www.linkedin.com/in/binh-nguyen-ngo/)
