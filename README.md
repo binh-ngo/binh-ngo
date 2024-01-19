@@ -1,11 +1,10 @@
-### Hi there 👋
-
+### Hi, I'm Binh Ngo 👋
+- I like creating full stack projects hosted on AWS through CDK.
+- I'm currently interested in Bedrock.
 - 📫 How to reach me: 
     - Portfolio: [binhngo.me](http://www.binhngo.me)  
     - [LinkedIn](https://www.linkedin.com/in/binh-nguyen-ngo/)
-    - Blogs
-      - [Hashnode](https://binhngo.hashnode.dev/)
-      - [Medium](https://medium.com/@binhnngo)
+    - [Medium](https://medium.com/@binhnngo)
    
 <!--
 **binh-ngo/binh-ngo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
