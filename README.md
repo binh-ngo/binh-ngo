@@ -1,6 +1,6 @@
 ### Hi, I'm Binh Ngo 👋
 - I like creating full stack projects hosted on AWS through CDK.
-- I'm currently interested in Bedrock.
+- I'm currently interested in Bedrock and Langchain.
 - 📫 How to reach me: 
     - Portfolio: [binhngo.me](http://www.binhngo.me)  
     - [LinkedIn](https://www.linkedin.com/in/binh-nguyen-ngo/)
